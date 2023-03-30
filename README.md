@@ -1,5 +1,5 @@
 # LoanTap_LogisticRegression
-Logistic Regression LoanTap
+Logistic Regression
 
 Problem Statement:
 Design a Logistic Regression model to correctly classify the customer based on the given set of attributes into two categories - whether
